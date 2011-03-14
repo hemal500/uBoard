@@ -1,0 +1,34 @@
+.forumtitlerow
+{
+    font-size: larger;
+}
+.indextable
+        {
+            border-collapse: collapse;
+            width : 100%;
+        }
+        .catrow
+        {
+            background-color:aquamarine;
+            text-align: center;
+            border-style: solid;
+            border-color: black;
+        }
+        .catnamecell
+        {
+            text-align: left;
+        }
+        .fcell
+        {
+            background-color:lightgray;
+        }
+        .catheader
+        {
+           color: black;
+           font-size: larger;
+        }
+        .catdescr
+        {
+           color: black;
+           font-size:small;
+        }
